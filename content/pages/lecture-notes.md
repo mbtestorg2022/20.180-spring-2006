@@ -148,7 +148,7 @@ Devices, Revisited
 Genetic Devices and Device Modeling ([PDF]({{< baseurl >}}/resources/20_180_devices))
 {{< tdclose >}}
 {{< tdopen >}}
-Comic (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB]({{< baseurl >}}/resources/aisb_vol1))  
+Comic ([PDF - 1.5 MB]({{< baseurl >}}/resources/aisb_vol1))  
   
 First Order Decay ([PDF]({{< baseurl >}}/resources/firstorderdecay))  
   
