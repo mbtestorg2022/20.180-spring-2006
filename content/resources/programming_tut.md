@@ -6,6 +6,7 @@ description: This resource provides information for Unix and Python tutorial alo
   style and matlab tutorial.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-180-biological-engineering-programming-spring-2006/28a5087b6b72b046b6332b199fd79e54_programming_tut.pdf
 file_type: application/pdf
+parent_uid: c987fe2b-449a-6d79-c069-87f06f245539
 resourcetype: Document
 title: programming_tut.pdf
 uid: 28a5087b-6b72-b046-b633-2b199fd79e54

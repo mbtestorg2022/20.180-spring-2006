@@ -6,6 +6,7 @@ description: This resource provides information on how to make different sorts o
   (for example, device latency).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-180-biological-engineering-programming-spring-2006/d552c57f65c82e37755e28d21bbae131_20_180_devices.pdf
 file_type: application/pdf
+parent_uid: 2c814275-cfb7-ae76-c577-7c06911e2c68
 resourcetype: Document
 title: 20_180_devices.pdf
 uid: d552c57f-65c8-2e37-755e-28d21bbae131
